@@ -1,7 +1,7 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Liam Melkersson 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourName/)](https://www.linkedin.com/in/liam-melkersson-a6a863268/)
-[![Website Badge](https://img.shields.io/badge/-YourWebsite-orange?style=flat&logo=Firefox&logoColor=white&link=https://YourWebsite.com)](https://ju-nmd2022.github.io/wuid-portfolio-liammelkersson/index.html)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourName/)](https://www.linkedin.com/in/liam-melkersson-a6a863268/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=Safari&logoColor=white&link=https://YourWebsite.com)](https://ju-nmd2022.github.io/wuid-portfolio-liammelkersson/index.html)
 
 I'm a New Media Design student with a passion for programming and graphic design. I specify in web development, but I enjoy to learn about other forms of programming as well.
 
@@ -17,7 +17,6 @@ I'm a New Media Design student with a passion for programming and graphic design
 ## 📫 How to reach me
 
 - liammelkersson@live.se
-- [insert your LinkedIn]
 
 ## 🎧 What I'm currently listening to:
 
