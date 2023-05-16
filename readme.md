@@ -1,24 +1,27 @@
-# Hello, I'm Liam Melkersson 👋
+Hi 👋 My name is Liam Melkersson
+================================
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourName/)](https://www.linkedin.com/in/liam-melkersson-a6a863268/)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=Safari&logoColor=white&link=https://YourWebsite.com)](https://ju-nmd2022.github.io/wuid-portfolio-liammelkersson/index.html)
+Web developer & Designer 👨🏼‍💻
+------------------------
 
-I'm a student at Jönköping University and I'm absolutely hooked on the wild world of New Media Design! My passion lies in exploring the intersection between graphic design and programming, where I get to unleash my creative side and tinker with tech at the same time.
+I'm currently studying New Media Design at Jönköping University.
 
-## 🔭 Currently working on
-
-- Frogger(https://github.com/ju-nmd2022/fop-final-project-project-30)
-- To-do List App(https://github.com/ju-nmd2022/fop-todo-list-liammelkersson)
-
-## 🌱 Currently learning
-
-- JavaScript
-- TypeScript (for a summer project)
-
-## 📫 How to reach me
-
-- liammelkersson@live.se
-
-## 🎧 What I'm currently listening to:
-
-2023(https://open.spotify.com/playlist/282t7jDhTIjS4lNmUKOVOa?si=7ce07307750544d1)
+*   🌍  I'm based in Jönköping
+*   ✉️  You can contact me at [liammelkersson@live.se](mailto:liammelkersson@live.se)### Skills 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
+                    
+                  ### Links
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/liammelkersson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/liammelkersson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/liammelkersson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/liammelkersson"><img src="https://github-readme-stats.vercel.app/api?username=liammelkersson&show_icons=true&hide=stars,prs,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="liammelkersson's GitHub stats" /></a>
