@@ -16,3 +16,7 @@ I'm currently studying New Media Design at Jönköping University.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/liammelkersson"><img src="https://github-readme-stats.vercel.app/api?username=liammelkersson&show_icons=true&hide=stars,prs,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="liammelkersson's GitHub stats" /></a>
+
+![Alt Text]([direct_link_to_gif](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47g46d5sxc7wae3e1vb8sq0jy760q8bc6uq4ov33zv&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+
+https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47g46d5sxc7wae3e1vb8sq0jy760q8bc6uq4ov33zv&ep=v1_gifs_search&rid=giphy.gif&ct=g
