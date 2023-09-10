@@ -1,4 +1,4 @@
-#Hi 👋 
+Hi 👋 
 
 I'm Liam, a designer and developer who thrives in striking a balance
 between clean, considered and functional outcomes.  
