@@ -9,5 +9,3 @@ between clean, considered and functional outcomes.
 ### Learning  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,docker,ts,nuxtjs,)](https://skillicons.dev)
 
-### Music :P 
-<a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a>
