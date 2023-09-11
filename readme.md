@@ -9,4 +9,4 @@ between clean, considered and functional outcomes.
 ### Learning  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,docker,ts,nuxtjs,)](https://skillicons.dev)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=liammelkerssone&show_icons=true&theme=dark)](https://github.com/liammelkersson)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=liammelkersson&show_icons=true&theme=dark)](https://github.com/liammelkersson)
