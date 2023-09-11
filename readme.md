@@ -10,3 +10,5 @@ between clean, considered and functional outcomes.
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,docker,ts,nuxtjs,)](https://skillicons.dev)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=liammelkersson&show_icons=true&theme=dark)](https://github.com/liammelkersson)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liammelkersson&layout=compact)
