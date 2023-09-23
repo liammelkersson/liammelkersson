@@ -3,7 +3,7 @@
 I'm Liam, a designer and developer who thrives in striking a balance <br> between clean, considered and functional outcomes  🌱
 
 ### Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,tailwind,handlebars)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,tailwind)](https://skillicons.dev)
 
 ### Learning 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,docker,)](https://skillicons.dev)
