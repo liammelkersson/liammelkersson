@@ -17,3 +17,5 @@ Currently doing marketing, design, web & growth full-time at <img src="https://a
 ## Find me
 
 [**liammelkersson.xyz**](https://liammelkersson.xyz) · [LinkedIn](https://www.linkedin.com/in/liammelkersson) · [Dribbble](https://dribbble.com/liammelkersson)
+
+![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDJyMHZibGJwZXZzNWZ5bmdha2tqYzFhNjk3cjYwanFvZ3dpZ3VqbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SYQsiAmkDizTgv8Gbo/giphy.gif)
